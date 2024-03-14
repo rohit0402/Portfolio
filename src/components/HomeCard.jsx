@@ -18,8 +18,8 @@ const HomeCard = () => {
           Technology and Research. I'm an intermediate MERN stack developer and
           a passionate problem solver. With expertise in data structures and
           algorithms, I've successfully tackled over 400+ DSA problems on
-          various platforms and achieved a commendable global ranking of 680 in
-          LeetCode's biweekly contest 122 out of 22k+ participants.
+          various platforms and achieved a commendable global ranking of 919 in
+          LeetCode's biweekly contest 122 out of 26k+ participants.
           Additionally, I consistently rank in the top 10% on LeetCode's
           platform.
         </p>
